@@ -6,6 +6,4 @@ src = "src"
 title = "leetnotes"
 
 [build]
-  base = "/"
-  publish = "book"
   command = "mdbook build"
