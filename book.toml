@@ -2,7 +2,7 @@
 authors = ["redrumq"]
 language = "en"
 multilingual = false
-src = "mdbooknotes.netlify.app"
+src = "src"
 title = "leetnotes"
 
 [build]
