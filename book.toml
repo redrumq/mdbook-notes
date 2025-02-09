@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "mdbooknotes.netlify.app"
 title = "leetnotes"
+
+[build]
+  base = "/"
+  publish = "book"
+  command = "mdbook build"
